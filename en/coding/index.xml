@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coding on Bernstein</title>
-    <link>http://localhost:1313/en/coding/</link>
+    <link>https://bernsteining.github.io/en/coding/</link>
     <description>Recent content in Coding on Bernstein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/en/coding/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bernsteining.github.io/en/coding/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>instaloctrack</title>
-      <link>http://localhost:1313/en/coding/instaloctrack/instaloctrack_en/</link>
+      <link>https://bernsteining.github.io/en/coding/instaloctrack/instaloctrack_en/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/coding/instaloctrack/instaloctrack_en/</guid>
+      <guid>https://bernsteining.github.io/en/coding/instaloctrack/instaloctrack_en/</guid>
       <description>An OSINT/SOCMINT Project.
 TL;DR : video of the script being launched : https://www.youtube.com/watch?v=BKlTnBWupr0 (previous version tho !)
 Goal of the project The goal of this project is to collect all the locations linked to the photos of an Instagram profile in order to place them on a map.
